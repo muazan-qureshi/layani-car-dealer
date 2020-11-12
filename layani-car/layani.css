@@ -1,0 +1,83 @@
+body
+        {
+            /* font-family: 'Goldman', cursive; */
+            font-family: verdana;
+        }
+#header
+{
+    height: 500px;
+    background-color: #060930;
+}
+#navbar
+{
+    background-color: white;
+}
+a
+{
+    padding: 15px 30px;
+    color: white;
+}       
+#footer
+{
+    height: 300px;
+    background-color: black;
+}
+.icon
+{
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+}
+h3
+{
+    color: white;
+}
+.logo
+{
+    position: relative;
+    left: 20px;
+    top: 20px;
+}
+#searchbtn
+{
+    position: relative;
+    left: 40%;
+    
+}
+ul
+{
+    list-style: none    ;
+}li
+{
+    color: white;
+}
+.showbtn
+{
+    position: relative;
+    left: 45%;
+    top: 20px;
+    
+}
+.searchbaaar
+{
+    position: relative;
+    top: 5vh;
+}
+.tophead
+{
+    height: 40px;
+}
+#endfooter
+{
+    background-color: #060930;
+    color: white;
+}
+.nav-item
+{
+    padding: 0px 55px;
+    
+}
+.nav-item a
+{
+    font-size: 24px;
+}
